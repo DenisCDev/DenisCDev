@@ -1,4 +1,4 @@
-## Olá, eu sou Denis Scarabelli, bem vindo ao meu perfil.
+## Olá, eu sou Denis Scarabelli, bem vindo(a) ao meu perfil.
 
 - 🔭 Hoje em dia procuro meu primeiro emprego para iniciar carreira
 - 🌱 Estudando java
