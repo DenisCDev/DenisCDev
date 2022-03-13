@@ -4,7 +4,7 @@
 - 🌱 Estudando java e mais sobre back-end
 - 📫 Contate-me no email: contatodenisscarabelli@gmail.com
 - 😄 Pronomes: ele/dele
-- 🖥️ Mais sobre tecnologias: <br />
+- 🖥️ Tecnologias utilizadas: <br />
   <img align="center" alt="Denis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Denis-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Denis-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
