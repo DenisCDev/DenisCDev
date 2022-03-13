@@ -11,8 +11,6 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Denis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Denis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Denis-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/ENelLjlVUAACXtC.jpg">
 </div>
   
