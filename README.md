@@ -1,7 +1,6 @@
 ## Olá, eu sou Denis Scarabelli, bem vindo(a) ao meu perfil.
 
 - 🔭 Hoje em dia procuro meu primeiro emprego para iniciar carreira
-- 🌱 Estudando java e mais sobre back-end
 - 📫 Contate-me no email: contatodenisscarabelli@gmail.com
 - 😄 Pronomes: ele/dele
 - 🖥️ Tecnologias utilizadas: <br />
