@@ -1,7 +1,7 @@
 ## Olá, eu sou Denis Scarabelli, bem vindo(a) ao meu perfil.
 
 - 🔭 Hoje em dia procuro meu primeiro emprego para iniciar carreira
-- 📫 Contate-me no email: contatodenisscarabelli@gmail.com
+- 📫 Contate-me no email: denisscarabelli5@gmail.com
 - 😄 Pronomes: ele/dele
 - 🖥️ Tecnologias utilizadas: <br />
   Java | Spring boot | Java Script | Angular JS | MongoDB | SQL
