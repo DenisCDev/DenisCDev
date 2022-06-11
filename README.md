@@ -1,11 +1,4 @@
-## Olá, eu sou Denis Scarabelli, bem vindo(a) ao meu perfil.
-
-- 🔭 Hoje em dia procuro meu primeiro emprego para iniciar carreira
-- 📫 Contate-me no email: denisscarabelli5@gmail.com
-- 😄 Pronomes: ele/dele
-- 🖥️ Tecnologias utilizadas: <br />
-  Java | Spring boot | Java Script | Angular JS | MongoDB | SQL
-  
+## Olá, eu sou Denis Scarabelli, bem vindo(a) ao meu perfil
 
 <div align="center">
   <a href="https://github.com/DenisCDev">
@@ -14,6 +7,17 @@
   
  ## 
   
- <div>
-  <a href="https://www.linkedin.com/in/denis-scarabelli-290897215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="DenisJava" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="DenisSpring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="DenisJavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="DenisAngular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="DenisMongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="DenisSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:denisscarabelli5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denis-scarabelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
