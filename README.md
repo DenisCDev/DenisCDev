@@ -1,6 +1,6 @@
 ## Olá, eu sou Denis Scarabelli, bem vindo(a) ao meu perfil
 
-🗒 Em breve commitando projetos JS + frameworks
+🗒 Em breve commitando projetos JS + frameworks  
 💻 Atualizando APIs + micro serviços
 
 <div align="center">
