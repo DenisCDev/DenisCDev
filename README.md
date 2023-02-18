@@ -6,6 +6,11 @@ Desenvolvedor Full-stack.
 
 Entusiasta da área web e mobile.
 
+<di>
+  <a href="https://github.com/DenisCDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscdev&layout=compact&langs_count=7&theme=light"/>
+</div>
+
  <div style="display: inline_block"><br>
   <img align="center" alt="DenisHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DenisCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
