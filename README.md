@@ -8,7 +8,7 @@ Entusiasta da área web e mobile.
 
 <di>
   <a href="https://github.com/DenisCDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscdev&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="display: inline_block"><br>
