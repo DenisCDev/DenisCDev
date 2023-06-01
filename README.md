@@ -2,10 +2,6 @@
  ## 
   # Bem vindo(a) ao meu perfil!
 
-Desenvolvedor Full-stack.
-
-Entusiasta da área web e mobile.
-
 <di>
   <a href="https://github.com/DenisCDev">
   <img height="250em" width="1000em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscdev&layout=compact&langs_count=7&theme=transparent&title_color=000000"/>
