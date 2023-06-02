@@ -4,7 +4,7 @@
 
 <di>
   <a href="https://github.com/DenisCDev">
-  <img height="250em" width="1000em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscdev&layout=compact&langs_count=7&theme=transparent&title_color=000000"/>
+  <img height="250em" width="1000em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscdev&layout=compact&langs_count=7&theme=transparent&"/>
 </div>
 
  <div style="display: inline_block align-items="center""><br>
