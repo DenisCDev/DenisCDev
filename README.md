@@ -1,6 +1,6 @@
 ##
  
- <h1> Bem vindo ao meu perfil </h1>
+ <h1> Bem vindo(a) ao meu perfil </h1>
 
 <di>
   <a href="https://github.com/DenisCDev">
