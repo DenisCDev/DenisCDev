@@ -1,6 +1,5 @@
-##
- 
- <h1> Bem vindo(a) ao meu perfil </h1>
+# Olá eu sou
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A629&random=true&width=435&lines=Denis+Scarabelli;Engenheiro+de+Software;Desenvolvedor+Full-stack)](https://git.io/typing-svg)
 
 <di>
   <a href="https://github.com/DenisCDev">
