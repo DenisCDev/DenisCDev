@@ -1,5 +1,5 @@
 # Olá eu sou
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=300&color=F7A629&random=true&width=435&lines=Denis+Scarabelli;Engenheiro+de+Software;Desenvolvedor+Full-stack;Especializado+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=300&color=F7A629&random=true&width=435&lines=Denis+Scarabelli;Engenheiro+de+Software;Desenvolvedor+Web;)](https://git.io/typing-svg)
 
 <di>
   <a href="https://github.com/DenisCDev">
