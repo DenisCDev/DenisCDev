@@ -130,7 +130,7 @@
 </details>
 
 <details>
-<summary>🌱 <b>CHAPTER 1 — Freelance</b> (Dec 2020 → Jan 2022)</summary>
+<summary>🌱 <b>CHAPTER 1 — Freelance</b> (Set 2021 → Jan 2022)</summary>
 <br>
 
 ```
