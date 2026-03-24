@@ -1,8 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=60&lines=DENIS+SCARABELLI;entered+the+code!)
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=10000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=60&lines=DENIS+SCARABELLI;entered+the+code!)
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -202,6 +200,6 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=10000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=60&lines=THANK+YOU+FOR+VISITING;entered+the+code!)
 
 </div>
