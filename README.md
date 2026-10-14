@@ -18,8 +18,9 @@
 ┃  engenheiro de software · ymaginator                 ┃█
 ┃  teresópolis, rj — brasil                            ┃█
 ┃                                                      ┃█
-┃  front em next.js, back em bun + hono,               ┃█
-┃  supabase/postgres guardando dados e regras.         ┃█
+┃  front em next.js, back em node com fastify,         ┃█
+┃  express ou nest; supabase/postgres guardando        ┃█
+┃  dados e regras.                                     ┃█
 ┃                                                      ┃█
 ┃  o que me prende: pegar uma query lenta e            ┃█
 ┃  fazer ela voar.                                     ┃█
@@ -62,6 +63,9 @@ foi difícil e os prints de produção. os endereços no ar estão lá dentro.
 **back**
 
 ![node](https://img.shields.io/badge/-node-F7F6F1?style=flat-square&logo=nodedotjs&logoColor=0C0C0C&labelColor=2FBF71)
+![fastify](https://img.shields.io/badge/-fastify-F7F6F1?style=flat-square&logo=fastify&logoColor=0C0C0C&labelColor=2FBF71)
+![express](https://img.shields.io/badge/-express-F7F6F1?style=flat-square&logo=express&logoColor=0C0C0C&labelColor=2FBF71)
+![nest](https://img.shields.io/badge/-nest-F7F6F1?style=flat-square&logo=nestjs&logoColor=0C0C0C&labelColor=2FBF71)
 ![bun](https://img.shields.io/badge/-bun-F7F6F1?style=flat-square&logo=bun&logoColor=0C0C0C&labelColor=2FBF71)
 ![hono](https://img.shields.io/badge/-hono-F7F6F1?style=flat-square&logo=hono&logoColor=0C0C0C&labelColor=2FBF71)
 ![elysia](https://img.shields.io/badge/-elysia-F7F6F1?style=flat-square&labelColor=2FBF71&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMGMwYzBjIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgOFYxMk0xMiAxMkg5QzcuMTE0MzggMTIgNi4xNzE1NyAxMiA1LjU4NTc5IDEyLjU4NThDNSAxMy4xNzE2IDUgMTQuMTE0NCA1IDE2TTEyIDEySDE1QzE2Ljg4NTYgMTIgMTcuODI4NCAxMiAxOC40MTQyIDEyLjU4NThDMTkgMTMuMTcxNiAxOSAxNC4xMTQ0IDE5IDE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMiAxOUMyIDE3LjU4NTggMiAxNi44Nzg3IDIuNDM5MzQgMTYuNDM5M0MyLjg3ODY4IDE2IDMuNTg1NzkgMTYgNSAxNkM2LjQxNDIxIDE2IDcuMTIxMzIgMTYgNy41NjA2NiAxNi40MzkzQzggMTYuODc4NyA4IDE3LjU4NTggOCAxOUM4IDIwLjQxNDIgOCAyMS4xMjEzIDcuNTYwNjYgMjEuNTYwN0M3LjEyMTMyIDIyIDYuNDE0MjEgMjIgNSAyMkMzLjU4NTc5IDIyIDIuODc4NjggMjIgMi40MzkzNCAyMS41NjA3QzIgMjEuMTIxMyAyIDIwLjQxNDIgMiAxOVoiLz48cGF0aCBkPSJNMTYgMTlDMTYgMTcuNTg1OCAxNiAxNi44Nzg3IDE2LjQzOTMgMTYuNDM5M0MxNi44Nzg3IDE2IDE3LjU4NTggMTYgMTkgMTZDMjAuNDE0MiAxNiAyMS4xMjEzIDE2IDIxLjU2MDcgMTYuNDM5M0MyMiAxNi44Nzg3IDIyIDE3LjU4NTggMjIgMTlDMjIgMjAuNDE0MiAyMiAyMS4xMjEzIDIxLjU2MDcgMjEuNTYwN0MyMS4xMjEzIDIyIDIwLjQxNDIgMjIgMTkgMjJDMTcuNTg1OCAyMiAxNi44Nzg3IDIyIDE2LjQzOTMgMjEuNTYwN0MxNiAyMS4xMjEzIDE2IDIwLjQxNDIgMTYgMTlaIi8+PHBhdGggZD0iTTEwLjI4NTcgMkgxMy43MTQzQzE1Ljc4ODggMiAxNiAzLjEwOTkzIDE2IDVDMTYgNi44OTAwNyAxNS43ODg4IDggMTMuNzE0MyA4SDEwLjI4NTdDOC4yMTEyIDggOCA2Ljg5MDA3IDggNUM4IDMuMTA5OTMgOC4yMTEyIDIgMTAuMjg1NyAyWiIvPjwvc3ZnPg==)
@@ -156,24 +160,6 @@ rio de janeiro, rj
 `HTML` `CSS` `JavaScript` `React` `Design Responsivo` `Acessibilidade Web (WCAG)` `Git` `Metodologias Ágeis`
 
 </details>
-
----
-
-## certificações_
-
-| carimbo | onde |
-|---|---|
-| Next.js: explorando o framework | Alura |
-| Explore React com JavaScript | Alura |
-| React: otimizando a performance | Alura |
-| TypeScript: Fundamentos | Alura |
-| Lógica de Programação: Primeiros Programas | Alura |
-| Scrum: agilidade em seu projeto | Alura |
-| Fundamentos de Design UX | Google |
-| Essenciais do Google Cloud | Google |
-| Design Thinking, UX e Ágeis | Nubank |
-| Desenvolvedor Back-end | Tech4me |
-| Discover: Trilha Conectar | Rocketseat |
 
 ---
 
