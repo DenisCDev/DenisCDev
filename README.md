@@ -15,7 +15,7 @@
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  denis scarabelli                                    ┃█
-┃  engenheiro de software · ymaginator                 ┃█
+┃  engenheiro de software pleno · ymaginator           ┃█
 ┃  teresópolis, rj — brasil                            ┃█
 ┃                                                      ┃█
 ┃  front em next.js, back em node com fastify,         ┃█
@@ -36,15 +36,39 @@
 
 | projeto | o que é | o número que eu medi |
 |---|---|---|
-| **[AgroTax](https://denisdev.com.br/projetos/agrotax)** | assistentes de IA para tributação do agronegócio | `1.322` trechos da obra do especialista prontos pra consulta |
+| **[Golan](https://denisdev.com.br/projetos/golan)** | plataforma de IA para investigar riscos de crédito e mostrar as evidências | `5m26s → 0` de espera na primeira investigação do dia |
+| **[Petição AI](https://denisdev.com.br/projetos/peticao-ai)** | plataforma privada que adapta o assistente Hermes ao trabalho jurídico e transforma os documentos de um caso em uma minuta revisável | — |
+| **[AgroTax](https://denisdev.com.br/projetos/agrotax)** | cinco assistentes de IA especializados em tributação do agronegócio | `1.322` trechos da obra do especialista prontos pra consulta |
+| **[Gênesis Empreendimentos](https://denisdev.com.br/projetos/genesis)** | site, editor de conteúdo e painel de marketing de uma incorporadora | — |
 | **[DesparaFit](https://denisdev.com.br/projetos/desparafit)** | área de membros que acompanha um protocolo de 60 dias | `3 → 1` idas ao servidor pra montar a tela de perfil |
-| **[LaunchOS · Ton Luccas](https://denisdev.com.br/projetos/launch-ton-luccas)** | versionamento de landing page pra teste A/B com tráfego pago | `4,7 MB → 90 KB` na imagem principal da página |
-| **[Grace Valley Center](https://denisdev.com.br/projetos/grace-valley)** | site estático em cinco idiomas pra uma ONG na Bósnia | `35` páginas geradas no build — 7 seções em 5 idiomas |
-| **[Gênesis Empreendimentos](https://denisdev.com.br/projetos/genesis)** | site, CMS e painel de marketing de uma incorporadora | — |
-| **[Golan](https://denisdev.com.br/projetos/golan)** | agente de IA que investiga quem está por trás de uma decisão de crédito | `5m26s → 0` de espera na primeira investigação do dia |
+| **[LaunchOS · Ton Luccas](https://denisdev.com.br/projetos/launch-ton-luccas)** | sistema para testar versões de uma página de vendas com tráfego pago | `4,7 MB → 90 KB` na imagem principal da página |
+| **[Grace Valley Center](https://denisdev.com.br/projetos/grace-valley)** | site em cinco idiomas para uma ONG que atende crianças na Bósnia | `35` páginas geradas no build — 7 seções em 5 idiomas |
 
 o nome de cada projeto abre o case por dentro — como o sistema funciona, o que
 foi difícil e os prints de produção. os endereços no ar estão lá dentro.
+
+---
+
+## código aberto_
+
+| repositório | o que faz | stack |
+|---|---|---|
+| **[ferroada](https://github.com/DenisCDev/ferroada)** | camada de proteção que fica na frente de qualquer sistema sem exigir mudanças nele | `rust` `pingora` `next` |
+| **[narsil](https://github.com/DenisCDev/narsil)** | separa o servidor de uma aplicação Next.js sem mudar os endereços usados pela interface | `elysia` `axum` `prisma` `drizzle` |
+| **[estel](https://github.com/DenisCDev/estel)** | ajusta a temperatura e o brilho da tela ao longo do dia para reduzir a luz azul à noite | `rust` `windows` `android` |
+| **[nextaxum](https://github.com/DenisCDev/nextaxum)** | base para começar uma aplicação com Next.js, Rust e Supabase com segurança desde o primeiro dia | `next 16` `rust` `axum` `supabase` |
+| **[nodejsexpress-api](https://github.com/DenisCDev/nodejsexpress-api)** | servidor de personagens de RPG construído como uma aplicação pronta para produção | `typescript` `express 5` `mongodb` |
+| **[gsd-orchestrator](https://github.com/DenisCDev/gsd-orchestrator)** | traduz um pedido em linguagem natural para uma sequência de comandos do Claude Code | `claude code` `skills` `shell` |
+
+**contribuições em projetos de outras equipes:** 9 melhorias propostas (4 mergeadas)
+e 3 investigações de falhas que as equipes corrigiram, em
+[Next.js](https://github.com/vercel/next.js/issues/96982),
+[Mastra](https://github.com/mastra-ai/mastra/pull/21067),
+[OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js/pull/7060),
+[Hermes Agent](https://github.com/NousResearch/hermes-agent/pull/90043) e
+[Bun](https://github.com/oven-sh/bun/pull/37297).
+a lista completa, com o estado de cada uma, está em
+[denisdev.com.br/contribuicoes](https://denisdev.com.br/contribuicoes).
 
 ---
 
@@ -69,6 +93,7 @@ foi difícil e os prints de produção. os endereços no ar estão lá dentro.
 ![bun](https://img.shields.io/badge/-bun-F7F6F1?style=flat-square&logo=bun&logoColor=0C0C0C&labelColor=2FBF71)
 ![hono](https://img.shields.io/badge/-hono-F7F6F1?style=flat-square&logo=hono&logoColor=0C0C0C&labelColor=2FBF71)
 ![elysia](https://img.shields.io/badge/-elysia-F7F6F1?style=flat-square&labelColor=2FBF71&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMGMwYzBjIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgOFYxMk0xMiAxMkg5QzcuMTE0MzggMTIgNi4xNzE1NyAxMiA1LjU4NTc5IDEyLjU4NThDNSAxMy4xNzE2IDUgMTQuMTE0NCA1IDE2TTEyIDEySDE1QzE2Ljg4NTYgMTIgMTcuODI4NCAxMiAxOC40MTQyIDEyLjU4NThDMTkgMTMuMTcxNiAxOSAxNC4xMTQ0IDE5IDE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMiAxOUMyIDE3LjU4NTggMiAxNi44Nzg3IDIuNDM5MzQgMTYuNDM5M0MyLjg3ODY4IDE2IDMuNTg1NzkgMTYgNSAxNkM2LjQxNDIxIDE2IDcuMTIxMzIgMTYgNy41NjA2NiAxNi40MzkzQzggMTYuODc4NyA4IDE3LjU4NTggOCAxOUM4IDIwLjQxNDIgOCAyMS4xMjEzIDcuNTYwNjYgMjEuNTYwN0M3LjEyMTMyIDIyIDYuNDE0MjEgMjIgNSAyMkMzLjU4NTc5IDIyIDIuODc4NjggMjIgMi40MzkzNCAyMS41NjA3QzIgMjEuMTIxMyAyIDIwLjQxNDIgMiAxOVoiLz48cGF0aCBkPSJNMTYgMTlDMTYgMTcuNTg1OCAxNiAxNi44Nzg3IDE2LjQzOTMgMTYuNDM5M0MxNi44Nzg3IDE2IDE3LjU4NTggMTYgMTkgMTZDMjAuNDE0MiAxNiAyMS4xMjEzIDE2IDIxLjU2MDcgMTYuNDM5M0MyMiAxNi44Nzg3IDIyIDE3LjU4NTggMjIgMTlDMjIgMjAuNDE0MiAyMiAyMS4xMjEzIDIxLjU2MDcgMjEuNTYwN0MyMS4xMjEzIDIyIDIwLjQxNDIgMjIgMTkgMjJDMTcuNTg1OCAyMiAxNi44Nzg3IDIyIDE2LjQzOTMgMjEuNTYwN0MxNiAyMS4xMjEzIDE2IDIwLjQxNDIgMTYgMTlaIi8+PHBhdGggZD0iTTEwLjI4NTcgMkgxMy43MTQzQzE1Ljc4ODggMiAxNiAzLjEwOTkzIDE2IDVDMTYgNi44OTAwNyAxNS43ODg4IDggMTMuNzE0MyA4SDEwLjI4NTdDOC4yMTEyIDggOCA2Ljg5MDA3IDggNUM4IDMuMTA5OTMgOC4yMTEyIDIgMTAuMjg1NyAyWiIvPjwvc3ZnPg==)
+![python](https://img.shields.io/badge/-python-F7F6F1?style=flat-square&logo=python&logoColor=0C0C0C&labelColor=2FBF71)
 ![rust](https://img.shields.io/badge/-rust-F7F6F1?style=flat-square&logo=rust&logoColor=0C0C0C&labelColor=2FBF71)
 ![axum](https://img.shields.io/badge/-axum-F7F6F1?style=flat-square&labelColor=2FBF71&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMGMwYzBjIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMi43OTI4OSAyMS4yMDcxQzMuMDg1NzkgMjEuNSAzLjU1NzE5IDIxLjUgNC41IDIxLjVIMTQuNUMxNS40NDI4IDIxLjUgMTUuOTE0MiAyMS41IDE2LjIwNzEgMjEuMjA3MU0yLjc5Mjg5IDIxLjIwNzFDMi41IDIwLjkxNDIgMi41IDIwLjQ0MjggMi41IDE5LjVWOS41QzIuNSA4LjU1NzE5IDIuNSA4LjA4NTc5IDIuNzkyODkgNy43OTI4OU0yLjc5Mjg5IDIxLjIwNzFMOC43OTI4OSAxNS4yMDcxTTE2LjIwNzEgMjEuMjA3MUMxNi41IDIwLjkxNDIgMTYuNSAyMC40NDI4IDE2LjUgMTkuNVY5LjVDMTYuNSA4LjU1NzE5IDE2LjUgOC4wODU3OSAxNi4yMDcxIDcuNzkyODlNMTYuMjA3MSAyMS4yMDcxTDIxLjIwNzEgMTYuMjA3MUMyMS41IDE1LjkxNDIgMjEuNSAxNS40NDI4IDIxLjUgMTQuNVY0LjVDMjEuNSAzLjU1NzE5IDIxLjUgMy4wODU3OSAyMS4yMDcxIDIuNzkyODlNMTYuMjA3MSA3Ljc5Mjg5QzE1LjkxNDIgNy41IDE1LjQ0MjggNy41IDE0LjUgNy41SDQuNUMzLjU1NzE5IDcuNSAzLjA4NTc5IDcuNSAyLjc5Mjg5IDcuNzkyODlNMTYuMjA3MSA3Ljc5Mjg5TDIxLjIwNzEgMi43OTI4OU0yLjc5Mjg5IDcuNzkyODlMNy43OTI4OSAyLjc5Mjg5QzguMDg1NzkgMi41IDguNTU3MTkgMi41IDkuNSAyLjVIMTkuNUMyMC40NDI4IDIuNSAyMC45MTQyIDIuNSAyMS4yMDcxIDIuNzkyODlNOC43OTI4OSAxNS4yMDcxQzkuMDg1NzkgMTUuNSA5LjU1NzE5IDE1LjUgMTAuNSAxNS41SDE0TTguNzkyODkgMTUuMjA3MUM4LjUgMTQuOTE0MiA4LjUgMTQuNDQyOCA4LjUgMTMuNVYxMC41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=)
 
@@ -76,6 +101,7 @@ foi difícil e os prints de produção. os endereços no ar estão lá dentro.
 
 ![postgresql](https://img.shields.io/badge/-postgresql-F7F6F1?style=flat-square&logo=postgresql&logoColor=0C0C0C&labelColor=2FBF71)
 ![supabase](https://img.shields.io/badge/-supabase-F7F6F1?style=flat-square&logo=supabase&logoColor=0C0C0C&labelColor=2FBF71)
+![mongodb](https://img.shields.io/badge/-mongodb-F7F6F1?style=flat-square&logo=mongodb&logoColor=0C0C0C&labelColor=2FBF71)
 ![drizzle orm](https://img.shields.io/badge/-drizzle%20orm-F7F6F1?style=flat-square&logo=drizzle&logoColor=0C0C0C&labelColor=2FBF71)
 ![sql](https://img.shields.io/badge/-sql-F7F6F1?style=flat-square&labelColor=2FBF71&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMGMwYzBjIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNyAxMC44NDJDNy42MDE1OCAxMS4wMjI5IDguMjc0MzQgMTEuMTcxOCA5IDExLjI4MiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTIwIDEyQzIwIDEzLjY1NjkgMTYuNDE4MyAxNSAxMiAxNUM3LjU4MTcyIDE1IDQgMTMuNjU2OSA0IDEyIi8+PHBhdGggZD0iTTcgMTcuODQyQzcuNjAxNTggMTguMDIyOSA4LjI3NDM0IDE4LjE3MTggOSAxOC4yODIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMCA1VjE5QzIwIDIwLjY1NjkgMTYuNDE4MyAyMiAxMiAyMkM3LjU4MTcyIDIyIDQgMjAuNjU2OSA0IDE5VjUiLz48L3N2Zz4=)
 
@@ -83,6 +109,7 @@ foi difícil e os prints de produção. os endereços no ar estão lá dentro.
 
 ![vps self-hosted](https://img.shields.io/badge/-vps%20self--hosted-F7F6F1?style=flat-square&logo=linux&logoColor=0C0C0C&labelColor=2FBF71)
 ![docker](https://img.shields.io/badge/-docker-F7F6F1?style=flat-square&logo=docker&logoColor=0C0C0C&labelColor=2FBF71)
+![kubernetes](https://img.shields.io/badge/-kubernetes-F7F6F1?style=flat-square&logo=kubernetes&logoColor=0C0C0C&labelColor=2FBF71)
 ![caddy](https://img.shields.io/badge/-caddy-F7F6F1?style=flat-square&logo=caddy&logoColor=0C0C0C&labelColor=2FBF71)
 ![github actions](https://img.shields.io/badge/-github%20actions-F7F6F1?style=flat-square&logo=githubactions&logoColor=0C0C0C&labelColor=2FBF71)
 ![vercel](https://img.shields.io/badge/-vercel-F7F6F1?style=flat-square&logo=vercel&logoColor=0C0C0C&labelColor=2FBF71)
@@ -93,16 +120,30 @@ foi difícil e os prints de produção. os endereços no ar estão lá dentro.
 ## trajetória_
 
 <details>
-<summary><b>Ymaginator</b> — engenheiro de software · jan 2026 — presente</summary>
+<summary><b>Ymaginator</b> — engenheiro de software pleno · jan 2026 — presente</summary>
 
 são paulo, brasil
 
-- Redesenhei a arquitetura backend, extraindo a lógica de Server Actions do Next.js para um backend dedicado em Bun + Elysia com Drizzle ORM e contratos tipados, reduzindo a latência das leituras
-- Otimizei o caminho crítico de dados com batch endpoints, instrumentação com Server-Timing, cache de JWT e agregação direta no PostgreSQL
-- Construí produtos SaaS com IA usando RAG com busca vetorial, orquestração multi-modelo, handoff entre agentes, extração via OCR/visão e proteção contra prompt injection
-- Estruturei infraestrutura de produção self-hosted com Docker Compose, Caddy e GitHub Actions — deploy que troca de versão sem tirar o sistema do ar, rollback automático quando algo sai errado e backup diário que eu já restaurei de verdade, não só gravei
+- Desenvolvo backend e IA aplicada para produtos SaaS. No Golan, trabalho com APIs, PostgreSQL e integração de serviços para investigação financeira e análise de risco de crédito
+- Separei o servidor de aplicações Next.js em APIs com TypeScript, Bun e Elysia. Medi onde o tempo era gasto, reuni buscas repetidas e levei agregações ao PostgreSQL para reduzir esperas
+- No Golan, participei da execução de investigações em ambientes separados e da preparação desses ambientes durante a publicação das versões
+- Preparei publicação e recuperação com Docker, Caddy e GitHub Actions: verificação de saúde, rollback automático, backups diários e restauração testada
+- No DesparaFit, com mais de 2 mil usuários ativos, a conta é criada depois da compra e um aviso de pagamento repetido não duplica o efeito
+- No AgroTax, construí assistentes que consultam documentos e apresentam fontes nas respostas, com busca vetorial, isolamento dos dados por cliente e proteção contra instruções maliciosas nos arquivos
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Bun` `Hono` `Elysia` `Drizzle ORM` `PostgreSQL` `Supabase` `RLS` `busca vetorial` `pgTAP` `React Query` `VPS self-hosted` `Docker` `Caddy` `GitHub Actions` `Vercel` `RAG` `orquestração multi-modelo`
+`TypeScript` `Bun` `Elysia` `Python` `Kubernetes` `Drizzle ORM` `PostgreSQL` `Supabase` `Next.js` `React` `Docker` `GitHub Actions`
+
+</details>
+
+<details>
+<summary><b>Autônomo</b> — consultor de arquitetura de software e backend · set 2021 — presente</summary>
+
+teresópolis, rj
+
+- Presto consultoria em arquitetura de software e otimização de backend: o que medir, o que separar e o que muda quando o uso cresce
+- Estruturo bancos de dados principalmente em PostgreSQL e uso MongoDB conforme o projeto
+
+`PostgreSQL` `MongoDB`
 
 </details>
 
@@ -111,10 +152,10 @@ são paulo, brasil
 
 teresópolis, rj
 
-- Desenvolvi landing pages responsivas para empreendimentos imobiliários e um painel próprio de métricas de Meta Ads centralizando leads, investimento, alcance e custo por lead
-- Projetei sistemas internos sobre Supabase — CMS administrativo, dashboards operacionais e notificações por e-mail — com autenticação SSR, Row Level Security e migrações SQL
-- Implementei pipeline próprio de analytics em conformidade com a LGPD, usando consentimento de cookies e hash de IP no lugar do endereço original
-- Integrei a aplicação à Meta Marketing API para ingestão de dados de campanhas e ao Resend para comunicação transacional
+- Integrei a Meta Marketing API a um painel com leads, investimento, alcance e custo por lead das campanhas
+- Implementei autenticação, regras de acesso por usuário no banco e publicação de conteúdo com Supabase e PostgreSQL
+- Implementei consentimento para medição de uso do site e tratamento do endereço IP sem armazenar seu valor original
+- Desenvolvi páginas para os empreendimentos e automatizei avisos por e-mail com Resend
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase (Auth, RLS)` `PostgreSQL` `Recharts` `Three.js` `Framer Motion` `Resend` `Meta Marketing API` `Vercel`
 
@@ -125,10 +166,10 @@ teresópolis, rj
 
 teresópolis, rj
 
-- Diagnostiquei e corrigi problemas diretamente em PostgreSQL, investigando inconsistências em múltiplas tabelas e sistemas até a causa raiz
+- Usei SQL e PostgreSQL para diagnosticar e corrigir inconsistências nos dados, acompanhando os problemas entre sistemas até encontrar sua origem
 - Atendi mais de 250 chamados por mês, resolvendo incidentes de média e alta complexidade
 - Realizei testes funcionais em aplicações web e desktop, contribuindo com o registro e acompanhamento de 100+ melhorias e correções
-- Atuei como referência técnica da equipe em ausências da supervisão, apoiando colegas em casos complexos, revisão de soluções e priorização
+- Apoiei a equipe nos casos mais complexos, na revisão de soluções e na definição do que precisava ser resolvido primeiro
 
 `PostgreSQL` `SQL` `Plataformas Web` `Aplicações Desktop` `Gestão de Banco de Dados` `Testes Funcionais`
 
@@ -139,25 +180,11 @@ teresópolis, rj
 
 rio de janeiro, rj
 
-- Modernizei a camada de backend, migrando endpoints e regras de negócio de ASP Classic para PHP sem interromper a operação do sistema
-- Investiguei e otimizei consultas SQL, reduzindo o tempo de resposta das operações mais críticas
-- Conduzi a migração incremental da codebase legada para uma arquitetura moderna, minimizando riscos e downtime
-- Analisei performance ponta a ponta — aplicação, banco de dados e infraestrutura AWS — para priorizar as melhorias de maior impacto
+- Migrei partes do servidor de ASP Classic para PHP em etapas, para reduzir o risco e as interrupções durante as atualizações
+- Melhorei consultas ao banco de dados para reduzir o tempo de resposta das operações mais importantes
+- Analisei aplicação, banco de dados e infraestrutura em conjunto para priorizar as melhorias que mais afetavam o uso
 
 `PHP` `ASP Classic` `SQL` `PostgreSQL` `AWS` `Otimização de Performance`
-
-</details>
-
-<details>
-<summary><b>Freelancer</b> — desenvolvedor web · set 2021 — jan 2022</summary>
-
-rio de janeiro, rj
-
-- Desenvolvi landing pages, sites institucionais e plataformas de e-commerce responsivas, adaptando a solução ao contexto de cada cliente
-- Implementei interfaces acessíveis e multiplataforma com HTML semântico, responsividade e diretrizes WCAG
-- Conduzi projetos de ponta a ponta — requisitos, escopo, prioridades e entrega — de forma independente
-
-`HTML` `CSS` `JavaScript` `React` `Design Responsivo` `Acessibilidade Web (WCAG)` `Git` `Metodologias Ágeis`
 
 </details>
 
