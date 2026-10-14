@@ -34,15 +34,15 @@
 
 ## projetos_
 
-| projeto | o que é | o número que eu medi |
-|---|---|---|
-| **[Golan](https://denisdev.com.br/projetos/golan)** | plataforma de IA para investigar riscos de crédito e mostrar as evidências | `5m26s → 0` de espera na primeira investigação do dia |
-| **[Petição AI](https://denisdev.com.br/projetos/peticao-ai)** | plataforma privada que adapta o assistente Hermes ao trabalho jurídico e transforma os documentos de um caso em uma minuta revisável | — |
-| **[AgroTax](https://denisdev.com.br/projetos/agrotax)** | cinco assistentes de IA especializados em tributação do agronegócio | `1.322` trechos da obra do especialista prontos pra consulta |
-| **[Gênesis Empreendimentos](https://denisdev.com.br/projetos/genesis)** | site, editor de conteúdo e painel de marketing de uma incorporadora | — |
-| **[DesparaFit](https://denisdev.com.br/projetos/desparafit)** | área de membros que acompanha um protocolo de 60 dias | `3 → 1` idas ao servidor pra montar a tela de perfil |
-| **[LaunchOS · Ton Luccas](https://denisdev.com.br/projetos/launch-ton-luccas)** | sistema para testar versões de uma página de vendas com tráfego pago | `4,7 MB → 90 KB` na imagem principal da página |
-| **[Grace Valley Center](https://denisdev.com.br/projetos/grace-valley)** | site em cinco idiomas para uma ONG que atende crianças na Bósnia | `35` páginas geradas no build — 7 seções em 5 idiomas |
+| projeto | o que é |
+|---|---|
+| **[Golan](https://denisdev.com.br/projetos/golan)** | plataforma de IA para investigar riscos de crédito e mostrar as evidências |
+| **[Petição AI](https://denisdev.com.br/projetos/peticao-ai)** | plataforma privada que adapta o assistente Hermes ao trabalho jurídico e transforma os documentos de um caso em uma minuta revisável |
+| **[AgroTax](https://denisdev.com.br/projetos/agrotax)** | cinco assistentes de IA especializados em tributação do agronegócio |
+| **[Gênesis Empreendimentos](https://denisdev.com.br/projetos/genesis)** | site, editor de conteúdo e painel de marketing de uma incorporadora |
+| **[DesparaFit](https://denisdev.com.br/projetos/desparafit)** | área de membros que acompanha um protocolo de 60 dias |
+| **[LaunchOS · Ton Luccas](https://denisdev.com.br/projetos/launch-ton-luccas)** | sistema para testar versões de uma página de vendas com tráfego pago |
+| **[Grace Valley Center](https://denisdev.com.br/projetos/grace-valley)** | site em cinco idiomas para uma ONG que atende crianças na Bósnia |
 
 o nome de cada projeto abre o case por dentro — como o sistema funciona, o que
 foi difícil e os prints de produção. os endereços no ar estão lá dentro.
@@ -57,8 +57,6 @@ foi difícil e os prints de produção. os endereços no ar estão lá dentro.
 | **[narsil](https://github.com/DenisCDev/narsil)** | separa o servidor de uma aplicação Next.js sem mudar os endereços usados pela interface | `elysia` `axum` `prisma` `drizzle` |
 | **[estel](https://github.com/DenisCDev/estel)** | ajusta a temperatura e o brilho da tela ao longo do dia para reduzir a luz azul à noite | `rust` `windows` `android` |
 | **[nextaxum](https://github.com/DenisCDev/nextaxum)** | base para começar uma aplicação com Next.js, Rust e Supabase com segurança desde o primeiro dia | `next 16` `rust` `axum` `supabase` |
-| **[nodejsexpress-api](https://github.com/DenisCDev/nodejsexpress-api)** | servidor de personagens de RPG construído como uma aplicação pronta para produção | `typescript` `express 5` `mongodb` |
-| **[gsd-orchestrator](https://github.com/DenisCDev/gsd-orchestrator)** | traduz um pedido em linguagem natural para uma sequência de comandos do Claude Code | `claude code` `skills` `shell` |
 
 **contribuições em projetos de outras equipes:** 9 melhorias propostas (4 mergeadas)
 e 3 investigações de falhas que as equipes corrigiram, em
